@@ -18,8 +18,8 @@ Script auto PNB multiworld terbaru dengan fitur paling lengkap dan fleksibel!
 - Jika tidak bisa diselesaikan, bot akan auto reconnect dan lanjut kerja
 
 💣 **Anti-Nuked System**  
-- Auto skip world jika terdeteksi nuked :nuke:  
-- Auto keluar jika jumlah player di world melebihi batas tertentu :yow_mods:
+- Auto skip world jika terdeteksi nuked  
+- Auto keluar jika jumlah player di world melebihi batas tertentu Dan ada mods 
 
 📦 **Drop Optimization**  
 - Auto lanjut tile setelah drop seed atau pack  
