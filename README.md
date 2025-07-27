@@ -1,7 +1,7 @@
 
 # 🚀 SCRIPT-PNB MULTIWORLD v1.0
 
-### :lgrid: :chand: :pepper: PNB MULTIWORLD 👊  
+### PNB MULTIWORLD 👊  
 Versi 1.0 **SUDAH RILIS!**  
 Script auto PNB multiworld terbaru dengan fitur paling lengkap dan fleksibel!
 
